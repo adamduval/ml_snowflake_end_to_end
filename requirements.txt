@@ -43,7 +43,7 @@ platformdirs==4.2.2
 prompt_toolkit==3.0.47
 psutil==6.0.0
 pure_eval==0.2.3
-pyarrow==17.0.0
+pyarrow==23.0.1
 pycparser==2.22
 Pygments==2.18.0
 PyJWT==2.12.0
