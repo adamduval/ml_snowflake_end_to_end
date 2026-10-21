@@ -8,7 +8,7 @@ Companion code for Unlocking Rapid Insights with an End-to-End Workflow in Snowf
 
 The article can be found [here](https://medium.com/snowflake/from-zero-to-value-unlocking-rapid-insights-with-an-end-to-end-ml-workflow-in-snowflake-9b000a25723c)
 
-The notebooks follow and entire ML project flowusing the Snowflake Ecosystem. The process includes:
+The notebooks follow and entire ML project flow using the Snowflake Ecosystem. The process includes:
 
 1. EDA
 2. Data Engineering
