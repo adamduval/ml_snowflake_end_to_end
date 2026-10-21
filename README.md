@@ -1,5 +1,9 @@
 # End-to-End Workflow in Snowflake ML
 
+> [!WARNING]
+> **This project is deprecated and is no longer maintained.** 
+> It is kept online solely for historical reference. Expect unpatched vulnerabilities in dependencies.
+
 Companion code for Unlocking Rapid Insights with an End-to-End Workflow in Snowflake ML at Cooke Aquaculture Medium Article.
 
 The article can be found [here](https://medium.com/snowflake/from-zero-to-value-unlocking-rapid-insights-with-an-end-to-end-ml-workflow-in-snowflake-9b000a25723c)
